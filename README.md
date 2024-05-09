@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @norahyc
-- 💻 I’m interested in Data Analytics
-- 🐾 Fun fact: I have a dog
+- 👋 Hi, I’m Norah!
+- 💻 I’m interested in Data Analytics and want to become a Data Analyst.
+- 🐾 Fun fact: I have a dog 🐕
