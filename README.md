@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @norahyc
+- 💻 I’m interested in Data Analytics
+- 🐾 Fun fact: I have a dog
